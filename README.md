@@ -4,4 +4,4 @@
 
 ### Mensaje de registro exitoso creado 
 
-<p align="center"><img src="https://ibb.co/XF24kLP"/></p> 
+![ScreenShot](https://ibb.co/XF24kLP)
