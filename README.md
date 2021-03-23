@@ -4,4 +4,4 @@
 
 ### Mensaje de registro exitoso creado 
 
-![ScreenShot](https://ibb.co/XF24kLP)
+![ScreenShot](https://i.ibb.co/nQg08my/Screenshot-2021-03-23-18-26-56-252-com-example-listadinamicaheroes.jpg)
